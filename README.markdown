@@ -47,7 +47,9 @@ To reproduce the bundle tarball, just do
 ```bash
 make
 ```
-
+```python
+import urllib2
+```
 at the top of the bundle source tree.
 
 Please note that you may need to install some extra dependencies, like `perl`, `dos2unix` and
